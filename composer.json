@@ -1,0 +1,10 @@
+{
+  "name": "webtools/ecas",
+  "description": "WebTools ECAS",
+  "require": {
+    "apereo/phpCAS": "^1.3.5"
+  },
+  "autoload": {
+    "psr-4": {"": "vendor/apereo/phpcas/"}
+  }
+}
